@@ -1,14 +1,17 @@
 # Quiz Game
 
-<p align="center">
-  <img src="quiz_start.png" alt="Start Screen" width="30%"/>
-  <img src="quiz_question.png" alt="Quiz Question" width="30%"/>
-  <img src="quiz_results.png" alt="Results Screen" width="30%"/>
-</p>
-
-<p align="center">
-  <sub><em>Start Screen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quiz Question &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Results Screen</em></sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><img src="quiz_start.png" alt="Start Screen" width="90%"/></td>
+    <td align="center" width="33%"><img src="quiz_question.png" alt="Quiz Question" width="90%"/></td>
+    <td align="center" width="34%"><img src="quiz_results.png" alt="Results Screen" width="90%"/></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Start Screen</em></td>
+    <td align="center"><em>Quiz Question</em></td>
+    <td align="center"><em>Results Screen</em></td>
+  </tr>
+</table>
 
 ## About
 
